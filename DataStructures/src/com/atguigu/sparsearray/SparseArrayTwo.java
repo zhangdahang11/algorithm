@@ -9,7 +9,7 @@ package com.atguigu.sparsearray;
  * @Create 2022/11/25 20:55
  * @Version 1.0
  */
-public class SparseArray1 {
+public class SparseArrayTwo {
     public static void main(String[] args) {
         int[][] arr = new int[11][11];
         arr[1][2] = 1;
